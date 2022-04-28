@@ -9,9 +9,10 @@
     width: 70%;
     margin: auto;
 }
-li{
+ul{
     list-style-type: none;
-    display: inline;
+    display: flex;
+    justify-content: center;
 }
 
 /* header */
